@@ -1,0 +1,25 @@
+.navbar-ul ul {
+  background-color: gray;
+  height: 3rem;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2px;
+  margin: 0
+}
+
+/* .navbar-ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+} */
+
+li {
+  list-style: none;
+  display: inline-block
+}
+
+
+
+
+

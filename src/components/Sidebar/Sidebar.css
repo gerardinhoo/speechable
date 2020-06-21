@@ -1,0 +1,26 @@
+.sidebar li {
+  display: flex;
+  margin: 1rem;
+  margin: 0;
+  padding: 20px
+}
+
+.sidebar {
+  background-color: #333;
+  color: white;
+  width: 7rem;
+  height:  100rem;
+  margin: 2px; 
+  position: relative;
+  right: 2rem;  
+}
+
+.para {
+  position: relative;
+  right: 3rem;
+  top: 2rem;
+}
+
+.logo {
+  border-radius: 10px;
+}
