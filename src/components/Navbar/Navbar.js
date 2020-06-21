@@ -5,18 +5,26 @@ const Navbar = () => {
   return (
     <div className="navbar-ul">
      <ul>
-       <li>Speechable</li>
-       <li>Jewial Jones <span>⭐️</span></li>
-       <li>07-12-2020 | 10:00 am - 10:30am</li>
-       <li>
-         <button>Finish</button>
+       <li className="app-title">Speechable</li>
+       <li className="patient-name">
+         Jewial Jones 
        </li>
-       <li>
-         <button>000</button>
-       </li>
-       <li>
-         <button>Settings</button>
-       </li>
+       <span className="stars">⭐️</span>
+       <li className="date-time">07-12-2020 | 10:00 am - 10:30am</li>
+          <li>
+          <button className="finish-button">
+            <i className="fa fa-flag-o"></i>
+            Finish
+          </button>
+          </li>
+          <li>
+            <button className="some-button">000</button>
+          </li>
+          <li>
+            <button className="setting-button">
+              <i className="fa fa-gear"></i>
+            </button>
+          </li>
      </ul>
     </div>
   )

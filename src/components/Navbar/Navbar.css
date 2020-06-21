@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kite+One&display=swap');
+
 .navbar-ul ul {
   background-color: gray;
   height: 3rem;
@@ -8,16 +10,60 @@
   margin: 0
 }
 
-/* .navbar-ul {
-  position: fixed;
-  top: 0;
-  width: 100%;
-} */
-
 li {
   list-style: none;
   display: inline-block
 }
+
+.app-title {
+  font-size: 2rem;
+  font-family: 'Kite One', sans-serif;
+}
+
+.patient-name {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+.stars {
+  font-size: 2.5rem;
+  margin-right: 10rem;
+}
+
+.date-time {
+  position: relative;
+  top: 1rem;
+  right: 15rem;
+  font-size: 20px
+}
+
+.finish-button {
+  position: relative;
+  left: 9rem;
+  margin-top: 5px;
+  padding: 10px;
+  width: 5rem;
+  border-radius: 8px;
+}
+
+.some-button {
+  position: relative;
+  top: 5px;
+  left: 5rem;
+  padding: 10px;
+  width: 3rem;
+  border-radius: 8px;
+}
+
+.setting-button {
+  position: relative;
+  top: 5px;
+  left: 1rem;
+  padding: 10px;
+  width: 3rem;
+  border-radius: 8px;
+}
+
 
 
 
