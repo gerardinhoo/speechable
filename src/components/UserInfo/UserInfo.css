@@ -1,0 +1,14 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.img-content {
+  display: flex;
+  position: relative;
+  top: 45rem
+}
+
+
