@@ -1,0 +1,19 @@
+
+.therapist {
+  display: flex;
+  position: relative;
+  top: 35rem
+}
+
+.therapist img {
+  width: 15%;
+  margin-left: 12rem;
+  margin-bottom: 10rem;
+}
+
+/* .therapist-name {
+  color: red;
+  position: relative;
+  bottom: 1.5rem;
+  right: 10rem
+} */

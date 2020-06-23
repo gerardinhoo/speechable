@@ -1,14 +1,14 @@
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+.patient img {
+  margin-left: 80%;
+  width: 15%;
 }
 
-.img-content {
+.patient {
   display: flex;
   position: relative;
-  top: 45rem
+  top: 47rem
 }
+
+
 
 

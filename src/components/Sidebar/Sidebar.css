@@ -13,8 +13,8 @@
   margin: 2px; 
   position:absolute;
   left: 0; 
-  top: 4rem;
-  bottom: 0; 
+  top: 0;
+  margin-top: 3.75rem;
 }
 
 .para {
