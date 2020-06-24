@@ -9,11 +9,29 @@
   width: 15%;
   margin-left: 12rem;
   margin-bottom: 10rem;
+  border-radius: 2rem;
 }
 
-/* .therapist-name {
-  color: red;
+.therapist-name {
   position: relative;
-  bottom: 1.5rem;
-  right: 10rem
-} */
+  bottom: 0.75rem;
+  right: 16rem;
+  height: 2rem;
+  width: 16rem;
+  border-radius: 0.5rem;
+  background-color: gray;
+  color: white;
+  font-size: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.dashes {
+  font-size: 3rem;
+  color: white;
+  position: relative;
+  right: 20rem;
+  bottom: 2.5rem;
+}
+

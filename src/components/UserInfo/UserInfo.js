@@ -5,7 +5,7 @@ const UserInfo = () => {
   return (
     <div className="patient">
         <img src="https://platform.nashvilleparent.com/media/cellkid.jpg" alt="" />
-        <div class='patient-name'>Patient</div>
+        <div className='patient-name'>Patient</div>
     </div>
  
   )
